@@ -1,0 +1,86 @@
+body{ text-align: center; }
+   		
+   #contenedor{ 
+    width: 95%;
+    height: 500px;
+    background-color:lightseagreen;
+    margin: 0 auto 0 auto; 
+    text-align: left;
+   }
+    .cabecera{
+      width: 100%; 
+      height: 90px;
+      margin: 0 auto 0 auto; 
+      text-align: left;	
+    }
+    .logo{
+      height: 100px;
+      width: 100px;
+      float: left;
+    }
+		
+  .titulo{
+      font-family: calibri;
+      font-size: 20pt;
+      color: white;
+      width: 60%;
+      margin: 0 auto 0 auto;
+     float: left;
+     text-align: center;
+   }
+    .login{
+      font-family: calibri;
+      font-size: 15pt;
+      color: white;
+      width: 25%;
+      text-align: right;
+      margin: 0 auto 0 auto;
+      margin-right: 20px;
+      float: left;
+      }
+   .menu_sup{
+      width: 78%; 
+      height: 40px;
+      background-color: #a83600;
+      margin: 0 auto 0 auto; 
+      text-align: left;
+      text-transform: uppercase;
+   }
+   .op_menu_sup{
+      width: 110px; 
+      height: 33px;
+      background-color:#ebef20;
+      border: 0.5px  dashed black ;
+      margin: 2px 2px 2px 2px; 
+      text-align: center;	
+      float: left;
+     
+   }
+  .cuerpo{
+      width: 100%; 
+      height: 650px;
+      background-color:white;
+      margin: 0 auto 0 auto; 
+      text-align: center;
+font-size: 8pt;	
+   }   	
+	
+ .h1{
+    font-size: 6pt;
+}  
+.h2{
+    font-size: 4pt;
+}  
+  .pie{ 
+    	text-align: center;
+    	font-size:9pt;
+    	color: black;
+   	background-color: #2fabab;
+	}  		
+   		#encabezado{ height: 80px; width: 693px; margin-bottom: 70px;}
+   		
+   		#contenido{ width: 500px; float: left; margin-bottom: 70px;}
+   		
+   		#menu{ width: 180px; float: right; text-transform: uppercase}	
+   			
+   	
